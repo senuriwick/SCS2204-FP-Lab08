@@ -1,4 +1,5 @@
 import scala.io.StdIn
+
 object PatternMatchingExample extends App {
   print("Enter an integer : ")
   val input = StdIn.readInt()
